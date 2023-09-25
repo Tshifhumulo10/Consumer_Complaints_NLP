@@ -6,4 +6,18 @@ In the fast-paced and interconnected world of modern business, customer feedback
 
 To address this challenge, I am embarking on an innovative project to develop a cutting-edge Natural Language Processing (NLP) model. The primary objective of this model is to read and comprehend natural language in customer complaints, enabling us to automatically route each complaint to the right department or team for efficient and tailored resolution. 
 
-Datasource: https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp
+## Data Source
+
+[Website](https://www.kaggle.com/datasets/shashwatwork/consume-complaints-dataset-fo-nlp)
+
+## Documents
+
+## Notebook Content
+
+1. Objectives
+2. Importing Libraries
+3. Data Collection
+4. Exploratory data Analysis
+5. Feature Engineering
+6. modeling
+7. Model review
