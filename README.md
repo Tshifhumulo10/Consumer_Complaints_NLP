@@ -12,6 +12,9 @@ To address this challenge, I am embarking on an innovative project to develop a 
 
 ## Documents
 
+1. Complaints_processed.csv
+2. Notebook
+
 ## Notebook Content
 
 1. Objectives
