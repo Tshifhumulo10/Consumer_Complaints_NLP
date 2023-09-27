@@ -12,9 +12,9 @@ To address this challenge, I am embarking on an innovative project to develop a 
 
 ## Documents
 
-1. Complaints_processed.csv
-2. Notebook
-
+1. Notebook: This Jupyter Notebook is an essential part of our project dedicated to analyzing the consumer complaints  and developing a predictive model for consumer Complaints.
+2. Train Data: The training dataset was obtained from Kaggle, and the source link is provided above. This dataset serves as the foundation for  analysis and model development.
+   
 ## Notebook Content
 
 1. Objectives
