@@ -25,7 +25,7 @@ To address this challenge, I am embarking on an innovative project to develop a 
 6. modeling
 7. Model review
 
-# Usage
+## Usage
 To make the most of this notebook and our analysis:
 
 1. Clone this repository to your local machine.
@@ -33,5 +33,5 @@ To make the most of this notebook and our analysis:
 3. Open the notebook in Jupyter Notebook or any compatible environment.
 4. Execute each cell in the notebook sequentially to reproduce the analysis and model development.
    
-# Project Progress
+## Project Progress
 The analysis is ongoing, and the notebook is continuously updated with new findings and model improvements.
