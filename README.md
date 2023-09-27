@@ -26,7 +26,7 @@ To address this challenge, I am embarking on an innovative project to develop a 
 7. Model review
 
 ## Usage
-To make the most of this notebook and our analysis:
+To make the most of this notebook:
 
 1. Clone this repository to your local machine.
 2. Ensure you have the required Python libraries and dependencies installed.
